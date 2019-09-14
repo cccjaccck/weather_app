@@ -25,6 +25,8 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "My first React-Native app\nDisplay weather information according to latitude and longitude.",
+    "githubUrl": "https://github.com/cccjaccck/weather_app"
   }
 }
